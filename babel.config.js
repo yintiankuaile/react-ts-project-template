@@ -1,5 +1,5 @@
 module.exports = {
-    // 这个不设置的话，webpack 魔法注释会被删除
+    // 这个不设置的话，webpack 魔法注释会被删除1
     comments: true,
     presets: [
         [
